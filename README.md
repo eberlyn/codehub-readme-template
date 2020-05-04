@@ -2,7 +2,7 @@
 
 # Summary of what a README file is:
 
-A README file contains important information about the associated source code, files, dependencies and etc. that make up an application. In order to leverage applications and their associated source code, members of the open source community rely on clear and concise READMEs.
+A README file contains important information about the associated source code, files, dependencies and related details that make up an application. In order to leverage applications and their associated source code, members of the open source community rely on clear and concise READMEs.
 
 The following is a README template comprised of best practices for what information users expect to be included within a README.md file and how to organize for better user experience, as well as requirements for making code available on the ITS CodeHub. Pease feel free to copy and paste this template into your own repository's README space. 
 
